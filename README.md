@@ -76,18 +76,3 @@ Logistic Regression → good baseline, interpretable
 Random Forest → higher recall for fraud cases
 
 XGBoost → best overall performance on imbalanced dataset
-
-📁 Repository Structure
-📂 Credit-Card-Fraud-Detection
- ├── creditcard.csv          # Dataset (not included due to size)
- ├── main.ipynb              # Jupyter Notebook with code
- ├── requirements.txt        # Dependencies
- └── README.md               # Project documentation
-
-📝 Future Work
-
-Hyperparameter tuning with GridSearchCV
-
-Deploy model as a REST API (Flask/FastAPI)
-
-Streamlit dashboard for real-time fraud detection
